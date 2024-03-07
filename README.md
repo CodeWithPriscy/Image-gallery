@@ -1,2 +1,2 @@
 # Image-gallery
-image-gallery using grid
+Responsive image-gallery using grid
